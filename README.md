@@ -1,7 +1,7 @@
 
 # Indian Sign Language
 
-Indian Sign Language is a translation system designed to bridge communication gaps by converting Indian Sign Language (ISL) gestures into text and speech in real-time. This project leverages computer vision and machine learning models to recognize ISL gestures and translate them into natural language text, making communication more accessible for the hearing and speech-impaired community.
+Indian Sign Language is a translation system designed to bridge communication gaps by converting Indian Sign Language (ISL) gestures into text and speech in real time. This project leverages computer vision and machine learning models to recognize ISL gestures and translate them into natural language text, making communication more accessible for the hearing and speech-impaired community.
 
 ## Features
 
@@ -37,10 +37,6 @@ Place your hand in the frame, and the system will capture and interpret the ISL 
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with any enhancements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
 
